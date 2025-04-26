@@ -1,0 +1,15 @@
+**/Dockerfile*
+**/.dockerignore
+**/.env
+**/.git
+**/.gitignore
+**/.vs
+**/.vscode
+**/__pycache__
+**/*.py[cod]
+**/*$py.class
+!**/.gitignore
+!.git/HEAD
+!.git/config
+!.git/packed-refs
+!.git/refs/heads/**
