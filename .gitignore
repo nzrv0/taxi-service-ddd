@@ -73,3 +73,4 @@ dmypy.json
 # Other
 *.bak
 *.tmp
+src/infrastructure/migrations/versions/*
